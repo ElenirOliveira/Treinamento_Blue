@@ -1,0 +1,55 @@
+Relatório de Assentos - PoccoBus
+========================================
+
+A01 - Vendido
+A02 - Vendido
+A04 - Vendido
+A03 - Disponivel
+A05 - Vendido
+A06 - Disponivel
+A08 - Disponivel
+A07 - Disponivel
+A09 - Disponivel
+A10 - Disponivel
+A12 - Disponivel
+A11 - Disponivel
+A13 - Disponivel
+A14 - Disponivel
+A16 - Disponivel
+A15 - Vendido
+A17 - Disponivel
+A18 - Disponivel
+A20 - Disponivel
+A19 - Disponivel
+A21 - Disponivel
+A22 - Disponivel
+A24 - Disponivel
+A23 - Disponivel
+A25 - Disponivel
+A26 - Disponivel
+A28 - Disponivel
+A27 - Vendido
+A29 - Disponivel
+A30 - Disponivel
+A32 - Vendido
+A31 - Vendido
+A33 - Disponivel
+A34 - Disponivel
+A36 - Disponivel
+A35 - Disponivel
+A37 - Vendido
+A38 - Vendido
+A40 - Vendido
+A39 - Disponivel
+A41 - Disponivel
+A42 - Vendido
+A44 - Disponivel
+A43 - Disponivel
+A45 - Vendido
+A46 - Disponivel
+A48 - Vendido
+A47 - Vendido
+
+Resumo:
+Total de assentos vendidos: 15
+Total de assentos disponiveis: 33
